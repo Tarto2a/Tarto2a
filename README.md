@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I’m a Computer Science & Engineering student passionate about software development, problem-solving, and building practical tech solutions.<br><br>I enjoy working on a variety of projects across different areas of software engineering, focusing on writing clean, efficient code and continuously improving my skills through hands-on experience.<br><br>💡 Interests<br><br>. Software development<br>. Problem-solving and algorithms<br>. Web and application development<br>. Artificial Intelligence and data-driven systems<br><br>🚀 Goals<br><br>I’m focused on growing as a versatile engineer, building real-world projects, and exploring different fields in software development to find where I can make the most impact.<br><br>🤝 Open To<br><br>. Collaboration<br>. Open-source contributions<br>. Internships and learning opportunities<br>
+## 👋 About Me<br><br>I’m a Computer Science & Engineering student passionate about software development, problem-solving, and building practical tech solutions.<br><br>I enjoy working on a variety of projects across different areas of software engineering, focusing on writing clean, efficient code and continuously improving my skills through hands-on experience.<br><br>🤝 Open To<br><br>. Collaboration<br>. Open-source contributions<br>. Internships and learning opportunities<br>
 
 
 # 💻 Tech Stack:
